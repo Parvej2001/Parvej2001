@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on pojects based on **[Blockchain]**
+- 📦⛓️ **[Blockchain]** enthusiast  👨‍💻🪙.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shaikhp055@gmail.com**
 
-- ⚡ Fun fact **I play cricket and watch movies and go to the GYM very often.**
+- ⚡ Fun fact: **Abhi koi FUN hai hi nahi hai LIFE mein.**
 
 ## 🚀 Languages and Tools:
 
