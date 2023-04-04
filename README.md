@@ -74,7 +74,7 @@
 <a href = "https://www.linkedin.com/in/parvej-shaikh-91813a1a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8e%2BXn%2Ft7T2Sy%2B9twbcjNiA%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a></a>
 <a href = "https://www.instagram.com/shaikhp055/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a></a>
+<a href = "https://twitter.com/p_parvez" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
 
 </p>
 
