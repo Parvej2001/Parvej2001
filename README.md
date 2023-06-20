@@ -8,7 +8,7 @@
 
 - 📦⛓️ **[Blockchain]** enthusiast  👨‍💻🪙.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Devops and Cloud computing.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
